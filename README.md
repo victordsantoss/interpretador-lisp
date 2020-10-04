@@ -7,7 +7,7 @@
 
 * Características: 
     * Pequena e otimizada. 
-    * Ferramenta rápida e altamente personalizável para fazer coisas do dia a dia. Lispy calcula (fato 100) exatamente em 0,003 segundos. Isso é rápido o suficiente para mim (embora muito mais lento do que a maioria das outras formas de computá-lo).
+    * Ferramenta rápida e altamente personalizável para fazer coisas do dia a dia. Lispy calcula (fatorial 100) exatamente em 0,003 segundos. Isso é rápido o suficiente (embora muito mais lento do que a maioria das outras formas de computá-lo).
     * Prototipação rápida e Rapid Application Development (RAD).
     * Aplicações de alta disponibilidade, principalmente aquelas que necessitam de mudanças após a etapa inicial.
 
