@@ -1,10 +1,19 @@
 # :warning: O que será abordado?
-Este projeto tem como objetivo, construir um interpretador para a maior parte do dialeto Scheme do Lisp usando Python 3 como linguagem de implementação.
-* A analise é um tópico muito importante nesse desenvolvimento, e tradicionalmente é separada em duas partes:
+Este projeto tem como objetivo, construir um interpretador para a maior parte do dialeto Scheme do Lisp usando [Python 3](https://www.python.org/) como linguagem de implementação.
+* A analise será um tópico muito importante nesse desenvolvimento, e tradicionalmente é separada em duas partes:
     * Análise Léxica: na qual a cadeia de caracteres de entrada é dividida em uma sequência de tokens (Os tokens Lispy são parênteses, simbolos e números).
     * Análise Sintática: na qual os tokens são montados em uma árvore de sintaxe abstrata.
     
-## :exclamation: O que é Lisp? 
+## :exclamation: O que é LISP? 
+LISP é uma linguagem de programação funcional e foi iventada por [J. McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) em 1959.
+É caracterizada por ser uma linguagem dinâmica, cujos programas são constituídos por pequenos módulos, de funcionalidade genérica e baseada, como diz o nome, em programação em listas.
+
+* Características: 
+    * Pequena.
+    * Ferramenta rápida e altamente personalizável para fazer coisas do dia a dia. Lispy calcula (fato 100) exatamente em 0,003 segundos. Isso é rápido o suficiente para mim (embora muito mais lento do que a maioria das outras formas de computá-lo).
+    * Prototipação rápida e Rapid Application Development (RAD).
+    * Aplicações de alta disponibilidade, principalmente aquelas que necessitam de mudanças após a etapa inicial.
+
 
 ## :books: Tecnologias usadas?
 
