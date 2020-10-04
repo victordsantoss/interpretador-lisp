@@ -1,5 +1,5 @@
 # :warning: O que será abordado?
-* O desenvolvimento dessa aplicação foi baseado no [tutorial](https://norvig.com/lispy.html), e tem como objetivo, construir um interpretador para a maior parte do dialeto Scheme do Lisp usando [Python 3](https://www.python.org/) como linguagem de implementação.
+* O desenvolvimento dessa aplicação foi baseado no [tutorial](https://norvig.com/lispy.html) de Peter Norvig's , e tem como objetivo, construir um interpretador para a maior parte do dialeto Scheme do Lisp usando [Python 3](https://www.python.org/) como linguagem de implementação.
 
 ## :exclamation: O que é LISP? 
 * LISP é uma linguagem de programação funcional e foi iventada por [J. McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) em 1959.
