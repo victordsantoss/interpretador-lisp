@@ -26,7 +26,7 @@
 > Abra o terminal na pasta raiz do repositório e digite: 
     
     jupyter notebook 
-> Este comando irá inicializar o servidor Jupyter, após isso, basta acessar executar as linhas de comando. 
+> Este comando irá inicializar o servidor Jupyter, após isso, basta acessar e executar as linhas de comando. 
 
 ## :computer: Como executar usando o terminal de uma distribuição Linux?
 > Primero passo: Clonar este repositório
