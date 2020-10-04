@@ -13,8 +13,30 @@
 
 
 ## :books: Tecnologias usadas?
+   * [Python 3](https://www.python.org/).
+   * [Jupyter Notebook](https://jupyter.org/).
 
 ## :computer: Como executar usando Jupyter Notebook?
+> Primero passo: Clonar este repositório
+     
+    git clone https://github.com/victordsantoss/interpretador_lispy.git
+> Após ter baixado o Python e o Jupyter Notebook, acesse a pasta raiz do repositório:
+
+    cd ../../interpretador_lisp
+> Abra o terminal na pasta raiz do repositório e digite: 
+    
+    jupyter notebook 
+> Este comando irá inicializar o servidor Jupyter, após isso, basta acessar executar as linhas de comando. 
 
 ## :computer: Como executar usando o terminal de uma distribuição Linux?
+> Primero passo: Clonar este repositório
+     
+    git clone https://github.com/victordsantoss/interpretador_lispy.git
+> Após ter baixado o Python, acesse a pasta raiz do repositório:
+
+    cd ../../interpretador_lisp
+> Abra o terminal na pasta raiz do repositório e digite: 
+    
+    python lisp.py  
+ 
 
