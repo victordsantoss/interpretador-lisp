@@ -19,7 +19,7 @@
 ## :computer: Como executar usando Jupyter Notebook?
 > Primero passo: Clonar este repositório
      
-    git clone https://github.com/victordsantoss/interpretador_lispy.git
+    git clone https://github.com/victordsantoss/interpretador_lisp.git
 > Após ter baixado o Python e o Jupyter Notebook, acesse a pasta raiz do repositório:
 
     cd ../../interpretador_lisp
@@ -31,7 +31,7 @@
 ## :computer: Como executar usando o terminal de uma distribuição Linux?
 > Primero passo: Clonar este repositório
      
-    git clone https://github.com/victordsantoss/interpretador_lispy.git
+    git clone https://github.com/victordsantoss/interpretador_lisp.git
 > Após ter baixado o Python, acesse a pasta raiz do repositório:
 
     cd ../../interpretador_lisp
