@@ -19,10 +19,10 @@
 ## :computer: Como executar usando Jupyter Notebook?
 > Clonar este repositório
      
-    git clone https://github.com/victordsantoss/interpretador_lisp.git
+    git clone https://github.com/victordsantoss/interpretador-lisp.git
 > Após ter baixado o Python e o Jupyter Notebook, acessar a pasta raiz do repositório:
 
-    cd ../../interpretador_lisp
+    cd ../../interpretador-lisp
 > Inicializar o Jupyter Notebook: 
     
     jupyter notebook 
@@ -30,10 +30,10 @@
 ## :computer: Como executar usando o terminal de uma distribuição Linux?
 > Clonar este repositório
      
-    git clone https://github.com/victordsantoss/interpretador_lisp.git
+    git clone https://github.com/victordsantoss/interpretador-lisp.git
 > Após ter baixado o Python, acessar a pasta raiz do repositório:
 
-    cd ../../interpretador_lisp
+    cd ../../interpretador-lisp
 > Execute o programa 
     
     python lisp.py  
