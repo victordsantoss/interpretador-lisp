@@ -17,25 +17,24 @@
    * [Jupyter Notebook](https://jupyter.org/).
 
 ## :computer: Como executar usando Jupyter Notebook?
-> Primero passo: Clonar este repositório
+> Clonar este repositório
      
     git clone https://github.com/victordsantoss/interpretador_lisp.git
-> Após ter baixado o Python e o Jupyter Notebook, acesse a pasta raiz do repositório:
+> Após ter baixado o Python e o Jupyter Notebook, acessar a pasta raiz do repositório:
 
     cd ../../interpretador_lisp
-> Abra o terminal na pasta raiz do repositório e digite: 
+> Inicializar o Jupyter Notebook: 
     
     jupyter notebook 
-> Este comando irá inicializar o servidor Jupyter, após isso, basta acessar e executar as linhas de comando. 
 
 ## :computer: Como executar usando o terminal de uma distribuição Linux?
-> Primero passo: Clonar este repositório
+> Clonar este repositório
      
     git clone https://github.com/victordsantoss/interpretador_lisp.git
-> Após ter baixado o Python, acesse a pasta raiz do repositório:
+> Após ter baixado o Python, acessar a pasta raiz do repositório:
 
     cd ../../interpretador_lisp
-> Abra o terminal na pasta raiz do repositório e digite: 
+> Execute o programa 
     
     python lisp.py  
  
